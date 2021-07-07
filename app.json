@@ -1,0 +1,35 @@
+{
+  "name": "contadordetruco",
+  "displayName": "Contador de Truco",
+  "expo": {
+    "name": "Contador de Truco",
+    "slug": "contadordetruco",
+    "version": "1.0.0",
+    "privacy": "public",
+    "platforms": ["ios", "android"],
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF872C"
+    },
+    "ios": {
+      "bundleIdentifier": "com.brunogarcia.contadordetruco",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.brunogarcia.contadordetruco",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/foreground.png",
+        "backgroundImage": "./assets/background.png",
+        "backgroundColor": "#FF872C"
+      }
+    },
+    "description": "Contador de Truco"
+  }
+}
