@@ -11,7 +11,7 @@ interface Props {
 function Donation(){
   Alert.alert(
     'Para doar é só fazer um PIX',
-    'Bruno Garcia | 376.427.498-05',
+    'Sirlene A. B. Garcia | 097.659.228-25',
     [
       { text: '❤️', onPress: () => {} }
     ]
