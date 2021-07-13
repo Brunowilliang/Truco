@@ -1,0 +1,7 @@
+{
+  "createReactTSXComponent.useArrowFunctionComponent": true,
+  "createReactTSXComponent.fileExtension": "tsx",
+  "createReactTSXComponent.useReactFC": false,
+  "createReactTSXComponent.useReactImport": true,
+  "createReactTSXComponent.stylesFormat": "Styled Components"
+}
